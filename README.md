@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuukBerkel&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuukBerkel&layout=compact&theme=gruvbox)
 
 
 <!--
