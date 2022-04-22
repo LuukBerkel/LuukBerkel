@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raouldeheer&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raouldeheer&layout=compact&theme=gruvbox)
+
 
 <!--
 **LuukBerkel/LuukBerkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
