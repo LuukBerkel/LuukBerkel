@@ -1,8 +1,6 @@
 ### Hi there 👋
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuukBerkel&theme=react&line_height=40&hide=css"/> </a>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=LuukBerkel&theme=react&line_height=40&hide=css"/> </a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuukBerkel&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuukBerkel&layout=compact&theme=gruvbox)
 
 
 <!--
